@@ -2,10 +2,11 @@
 
 <img width="207" alt="image" src="https://github.com/VincentBounce/Excel-Google-Sheet-formulas/assets/64386272/006322f4-8bb5-4204-8e03-fca0ada8a4df">
 
-**First formula draft**
+## First formula draft
+
 `=SERIESSUM(2,0,-1,{210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50})`
 
-**Best optimization after some iterations 💚**
+## Best optimization after some iterations 💚
 ```
 =SERIESSUM(2,0,-1,SEQUENCE(33, 1, 210000*50, 0))
 ```
