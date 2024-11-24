@@ -1,4 +1,15 @@
-# Excel-Google-Sheet-formulas
+# Shortest formula to compute the total supply of Bitcoin
+
+<img width="207" alt="image" src="https://github.com/VincentBounce/Excel-Google-Sheet-formulas/assets/64386272/006322f4-8bb5-4204-8e03-fca0ada8a4df">
+
+**First formula try**
+`=SERIESSUM(2,0,-1,{210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50})`
+
+**Best optimization after some iterations 💚**
+```
+=SERIESSUM(2,0,-1,SEQUENCE(33, 1, 210000*50, 0))
+```
+Output = 20,999,999.9975553
 
 ---
 
@@ -23,20 +34,9 @@ Output C2 = `https://fr.wikipedia.org/wiki/Indiana_Jones_et_le_Royaume_du_crâne
 
 ## To get a movie title from a Wikipedia link
 
-D2: `=substitute(substitute(substitute(substitute(mid(C2,31,256),"_"," ")," film)",")"),"(film, ","(")," (film)","")`
+D2:
+```
+=substitute(substitute(substitute(substitute(mid(C2,31,256),"_"," ")," film)",")"),"(film, ","(")," (film)","")
+```
 
 Output D2: `Indiana Jones et le Royaume du crâne de cristal`
-
-## Shortest formula to compute the total supply of Bitcoin
-
-<img width="207" alt="image" src="https://github.com/VincentBounce/Excel-Google-Sheet-formulas/assets/64386272/006322f4-8bb5-4204-8e03-fca0ada8a4df">
-
-**First formula try**
-```
-=SERIESSUM(2,0,-1,{210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50})
-```
-
-**Best optimization after some iterations**
-`=SERIESSUM(2,0,-1,SEQUENCE(33, 1, 210000*50, 0))`
-
-Output = 20,999,999.9975553
