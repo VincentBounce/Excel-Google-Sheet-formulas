@@ -1,19 +1,19 @@
-# Shortest formula to compute the total supply of Bitcoin
+# ₿ Shortest formula to compute the total supply of Bitcoin
 
 <img width="207" alt="image" src="https://github.com/VincentBounce/Excel-Google-Sheet-formulas/assets/64386272/006322f4-8bb5-4204-8e03-fca0ada8a4df">
 
-**First formula try**
+**First formula draft**
 `=SERIESSUM(2,0,-1,{210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50,210000*50})`
 
 **Best optimization after some iterations 💚**
 ```
 =SERIESSUM(2,0,-1,SEQUENCE(33, 1, 210000*50, 0))
 ```
-Output = 20,999,999.9975553
+Output = 20,999,999.9975553 | to get this ouput, need to display 7 digits after the decimal point on Excel/GoogleSheets
 
 ---
 
-# URL on Google Sheets
+# ⤴️URL on Google Sheets
 
 ## To encode a URL
 
