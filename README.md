@@ -6,9 +6,9 @@ All sheets are shared for fee.
 
 # 🏳️All flags of all countries by ISO code
 
-Both Emoji and PNG HD flag.
-Domain names.
-Phone prefixes.
+- Both Emoji and PNG HD flag
+- Domain names
+- Phone prefixes
 
 https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
 
