@@ -1,3 +1,21 @@
+# 🧰Google Sheets Useful Tools
+
+All sheets are shared for fee.
+
+---
+
+# All flags of all countries by ISO code
+
+Both Emoji and PNG HD flag.
+Domain names.
+Phone prefixes.
+
+https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
+
+![image](https://github.com/user-attachments/assets/f9f4566a-8bc1-48b6-a321-7b86fb5c1c83)
+
+---
+
 # ₿ Shortest formula to compute the total supply of Bitcoin
 
 <img width="207" alt="image" src="https://github.com/VincentBounce/Excel-Google-Sheet-formulas/assets/64386272/006322f4-8bb5-4204-8e03-fca0ada8a4df">
