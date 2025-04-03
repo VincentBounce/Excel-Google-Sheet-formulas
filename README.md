@@ -4,11 +4,12 @@ All sheets are shared for fee.
 
 ---
 
-# 🏳️All flags of all countries by ISO code
+# 🏳️🌎All flags of all countries by ISO code
 
 - Both Emoji and PNG HD flag
 - Domain names
 - Phone prefixes
+- Default sorted by ISO code, but you can sort as you prefer :)
 
 https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
 
