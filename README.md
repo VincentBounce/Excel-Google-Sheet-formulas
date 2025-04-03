@@ -4,7 +4,7 @@ All sheets are shared for fee.
 
 ---
 
-# 🏳️🌎All flags of all countries by ISO code
+# 🌎🏳️All flags of all countries by ISO code
 
 - Both Emoji and PNG HD flag
 - Domain names
