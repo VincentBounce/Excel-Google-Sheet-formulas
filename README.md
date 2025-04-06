@@ -1,14 +1,20 @@
 # 🧰Google Sheets Useful tools
 
-All sheets are shared for fee.
+All sheets are shared & open-source.
 
 ---
 
-# 🌎🏳️257 HD flags of all countries fetched by name or by ISO code
+# 🌎🏳️257 HD flags of all countries 
 
-## Copy the sheet from here https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
+## Open the sheet from this link
 
-Then uses this simple formula to retrieve the image of your flag
+**https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/**
+
+**Then click File > Make a copy**
+
+## Fetched by name or by ISO code
+
+**Then uses this simple formula to retrieve the image of your flag**
 - By common name `=VLOOKUP("France",Country_to_flag,3)`
 - By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
 
