@@ -37,7 +37,7 @@ Then click File > Make a copy
 
 ## Fetch by name
 
-![image](https://github.com/user-attachments/assets/04018997-b5ac-4c39-9bd6-30f3f1d03f76)
+![image](https://github.com/user-attachments/assets/5bb14fa7-ba1a-48b2-9e9b-e7403a56ecb3)
 
 ## Fetch by ISO 2-letter code
 
