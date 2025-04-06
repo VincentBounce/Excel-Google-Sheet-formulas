@@ -44,6 +44,8 @@ Then click File > Make a copy
 ![image](https://github.com/user-attachments/assets/150247ab-b792-4174-9d37-235054139a26)
 
 ---
+---
+---
 
 # ₿ Shortest formula to compute the total supply of Bitcoin
 
@@ -59,6 +61,8 @@ Then click File > Make a copy
 ```
 Output = 20,999,999.9975553 | to get this ouput, need to display 7 digits after the decimal point on Excel/GoogleSheets
 
+---
+---
 ---
 
 # ⤴️URL on Google Sheets
