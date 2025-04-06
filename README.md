@@ -12,7 +12,7 @@ All sheets are shared & open-source.
 
 **https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/**
 
-Then click File > Make a copy
+Then click **File > Make a copy**
 
 ## Fetch by name or by ISO code
 
