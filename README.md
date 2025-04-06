@@ -6,7 +6,7 @@ All sheets are shared & open-source.
 ---
 ---
 
-# 🌎🏳️257 HD flags of all countries 
+# 🌎257 HD flags of all countries 
 
 ## Open the sheet from this link
 
