@@ -4,14 +4,24 @@ All sheets are shared for fee.
 
 ---
 
-# 🌎🏳️All flags of all countries by ISO code
+# 🌎🏳️257 HD flags of all countries fetched by name or by ISO code
 
-- Both Emoji and PNG HD flag
+## Copy the sheet from here https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
+
+Then uses this simple formula to retrieve the image of your flag
+- By common name `=VLOOKUP("France",Country_to_flag,3)`
+- By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
+
+## Fetchable fields
+
+- Flag: PNG HD | Emoji (⚠️*Emojis are displayed as a country code on Windows 11*)
+- Phone prefixe
 - Domain names
-- Phone prefixes
-- Default sorted by ISO code, but you can sort as you prefer :)
-
-## https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
+- Area of country
+- Population 2024
+- Country ISO 3166-1 codes: A-2 (2 letters) | A-3 (3 letters) | numeric
+- Country names: Common name | ISO 3166 name | Official state name
+- Wikipedia article links: country | SVG flag | ISO | domain name
 
 ## HD flags & Dropdown menu
 
