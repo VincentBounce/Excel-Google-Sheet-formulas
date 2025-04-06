@@ -17,8 +17,9 @@ Then click File > Make a copy
 ## Fetch by name or by ISO code
 
 **You can retrieve the image of your flag**
-- By common name `=VLOOKUP("France",Country_to_flag,3)`
+- By common name `=VLOOKUP("France",Name_to_flag,3)`
 - By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
+- I added examples of dropdown menu 
 
 ## Fetchable fields
 
@@ -31,9 +32,14 @@ Then click File > Make a copy
 - Country names: Common name | ISO 3166 name | Official state name
 - Wikipedia article links: country | SVG flag | ISO | domain name
 
-## HD flags & Dropdown menu
+## HD flags
 
-![image](https://github.com/user-attachments/assets/003a23bf-5b47-4a1e-8f88-ba787d7f6793)
+**You can fetch**
+- every country flag
+- set of countries like European Union 🇪🇺
+- worldwide symbol 🌐
+
+![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
 
 ## Fetch by name
 
