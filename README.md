@@ -1,4 +1,4 @@
-# 🧰Google Sheets Useful Tools
+# 🧰Google Sheets Useful tools
 
 All sheets are shared for fee.
 
@@ -11,12 +11,19 @@ All sheets are shared for fee.
 - Phone prefixes
 - Default sorted by ISO code, but you can sort as you prefer :)
 
-https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
+## https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/
 
-![image](https://github.com/user-attachments/assets/f9f4566a-8bc1-48b6-a321-7b86fb5c1c83)
+## HD flags & Dropdown menu
 
-![image](https://github.com/user-attachments/assets/36df82cc-81f5-499d-b8bd-18273dbd5962)
+![image](https://github.com/user-attachments/assets/003a23bf-5b47-4a1e-8f88-ba787d7f6793)
 
+## Fetch by name
+
+![image](https://github.com/user-attachments/assets/04018997-b5ac-4c39-9bd6-30f3f1d03f76)
+
+## Fetch by ISO 2-letter code
+
+![image](https://github.com/user-attachments/assets/150247ab-b792-4174-9d37-235054139a26)
 
 ---
 
