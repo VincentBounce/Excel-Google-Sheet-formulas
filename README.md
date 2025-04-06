@@ -10,11 +10,11 @@ All sheets are shared & open-source.
 
 **https://docs.google.com/spreadsheets/d/1uazDIHQxew4WJWd_lhYgIPeBIvMke89q6384BCxpJjg/**
 
-**Then click File > Make a copy**
+Then click File > Make a copy
 
-## Fetched by name or by ISO code
+## Fetch by name or by ISO code
 
-**Then uses this simple formula to retrieve the image of your flag**
+**You can retrieve the image of your flag**
 - By common name `=VLOOKUP("France",Country_to_flag,3)`
 - By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
 
