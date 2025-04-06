@@ -35,7 +35,7 @@ Then click File > Make a copy
 ## HD flags
 
 **You can fetch**
-- every country flag
+- every country flag 🇺🇸🇫🇷🇬🇧🇨🇭🇯🇵🇨🇳...
 - set of countries like European Union 🇪🇺
 - worldwide symbol 🌐
 
