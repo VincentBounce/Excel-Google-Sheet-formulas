@@ -32,9 +32,9 @@ Then click **File > Make a copy**
 - by ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
 - using a dropdown menu 
 
-**You can fetch**
-- every country flag 🇺🇸🇫🇷🇬🇧🇨🇭🇯🇵🇨🇳...
-- set of countries like European Union 🇪🇺
+**You can fetch flag**
+- of every country flag 🇺🇸🇫🇷🇬🇧🇨🇭🇯🇵🇨🇳...
+- of country set like European Union 🇪🇺
 - worldwide symbol 🌐
 
 ![image](https://github.com/user-attachments/assets/2822c3ff-d642-4348-bf0f-42592a5ae833)
