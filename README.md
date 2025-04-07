@@ -51,7 +51,7 @@ Then click **File > Make a copy**
 
 ## Dropdown menu
 
-**Choose a *Dropdown (from a range)***
+**Select *Dropdown (from a range)***
 
 **Use a constant range from any sheet of your file**
 - `=Name_to_flag[SORTED name]` for common names
