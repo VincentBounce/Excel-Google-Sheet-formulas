@@ -61,7 +61,7 @@ Then click **File > Make a copy**
 
 <img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="300">
 
-[<img src="image2.png" width="200"/>](https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0)
+[<img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="200"/>]
 
 ---
 ---
