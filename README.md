@@ -19,7 +19,7 @@ Then click **File > Make a copy**
 **You can retrieve the image of your flag**
 - By common name `=VLOOKUP("France",Name_to_flag,3)`
 - By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
-- I added examples of dropdown menu 
+- By a dropdown menu 
 
 ## Fetchable fields
 
@@ -48,6 +48,16 @@ Then click **File > Make a copy**
 ## Fetch by ISO 2-letter code
 
 ![image](https://github.com/user-attachments/assets/150247ab-b792-4174-9d37-235054139a26)
+
+## Dropdown menu
+
+**Choose a *Dropdown (from a range)***
+
+**Use a constant range from any sheet of your file**
+- `=Name_to_flag[SORTED name]` for common names
+- `=ISO_to_flag[SORTED ISO]` for ISO codes
+
+![image](https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0)
 
 ---
 ---
