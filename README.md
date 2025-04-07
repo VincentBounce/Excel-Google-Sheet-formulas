@@ -57,7 +57,7 @@ Then click **File > Make a copy**
 - `=Name_to_flag[SORTED name]` for common names
 - `=ISO_to_flag[SORTED ISO]` for ISO codes
 
-![image](https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0){:height="36px" width="36px"}
+![image](https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0){width=36px}
 
 ---
 ---
