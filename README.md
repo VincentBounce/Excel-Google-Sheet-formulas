@@ -59,7 +59,7 @@ Then click **File > Make a copy**
 
 ![image](https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0)
 
-<img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="100">
+<img src="https://github.com/user-attachments/assets/989e0c71-b1c2-49e1-9f4d-b276be11a0e0" width="300">
 
 ---
 ---
