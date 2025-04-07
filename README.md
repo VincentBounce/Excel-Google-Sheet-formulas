@@ -14,13 +14,6 @@ All sheets are shared & open-source.
 
 Then click **File > Make a copy**
 
-## Fetch by name or by ISO code
-
-**You can retrieve the image of your flag**
-- By common name `=VLOOKUP("France",Name_to_flag,3)`
-- By ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
-- By a dropdown menu 
-
 ## Fetchable fields
 
 - Flag: PNG HD | Emoji (⚠️*Emojis are displayed as a country code on Windows 11*)
@@ -32,7 +25,12 @@ Then click **File > Make a copy**
 - Country names: Common name | ISO 3166 name | Official state name
 - Wikipedia article links: country | SVG flag | ISO | domain name
 
-## HD flags
+## Fetch HD flag by name or by ISO code
+
+**You can retrieve the HD image of your flag**
+- by common name `=VLOOKUP("France",Name_to_flag,3)`
+- by ISO code `=VLOOKUP("FR",ISO_to_flag,3)`
+- using a dropdown menu 
 
 **You can fetch**
 - every country flag 🇺🇸🇫🇷🇬🇧🇨🇭🇯🇵🇨🇳...
